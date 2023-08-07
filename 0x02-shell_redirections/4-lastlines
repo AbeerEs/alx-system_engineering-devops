@@ -1,0 +1,2 @@
+#!/bin/bash
+nail /etc/passwd
